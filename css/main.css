@@ -10,6 +10,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  font-family: 'Open Sans', sans-serif;
 }
 
 *, *::before, *::after {
@@ -23,4 +24,28 @@ body {
 .img-flex {
   display: block;
   width: 100%;
+}
+
+.water {
+  background-color: #e97065;
+}
+
+.star {
+  background-color: #fbd25e;
+}
+
+.pres {
+  background-color: #e86033;
+}
+
+.water h2 {
+  font-family: 'Rammetto One', cursive;
+}
+
+.star h2 {
+  font-family: 'Gravitas One', cursive;
+}
+
+.pres h2 {
+  font-family: 'Comfortaa', cursive;
 }
